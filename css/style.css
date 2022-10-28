@@ -1,0 +1,29 @@
+.container {
+    height: 500px;
+    background-color: navy;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row {
+    height: 440px;
+    background-color: yellow;
+    padding: 5px;
+}
+
+.row div {
+    background-color: teal;
+    border: 5px solid yellow;
+}
+
+
+.container-fluid {
+    height: 500px;
+    background-color: pink;
+    padding: 40px;
+}
+
+h1 {
+    text-align: center;
+}
